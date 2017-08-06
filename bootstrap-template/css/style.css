@@ -1,0 +1,259 @@
+@media only screen and (min-width: 120px) and (max-width:600px) {
+	 body {
+	    background:rgb(179, 224, 255);
+		display: block;
+		height:200px;
+	}  /* on screens between 120 to 600px widths, display contents in stack formation. (Elvis)  */
+     .jumbotron {
+ 
+background-image: url("../images/NY/nyccover-small.jpg");
+background-size: cover;
+background-position: center center;
+height:150px;
+     }
+} /* end-of-media-query */
+body {
+   background:rgb(179, 224, 255);
+}
+
+#titlefont{
+  font-family: Brush Script MT, cursive;
+  font-size: 2em;
+  color: black;
+   
+}
+#font-on-home {
+        background-color: white;
+ font-size: 20px;
+}
+
+
+.title1{
+   text-align: center;
+   color: white;
+   background-color: rgba(0,0,0,0.2);
+   width:500px;
+   margin-top:-30px;
+  
+}
+
+
+.jumbotron .title1{
+    
+    color:white;
+}
+
+
+.navbar{
+    
+    
+ 
+   
+}
+
+.navbar:hover{
+   background-color:white;
+      height:100px;
+      
+      
+      
+}
+.navbar-brand{
+   
+   padding-top:33px;
+
+   
+}
+      
+
+ul {
+padding-top:20px;
+padding-left:50px;
+}
+
+ul li{
+padding-top:15px;
+padding-left:50px;
+}
+
+
+.n{
+    background-color: white;
+ font-size: 20px;
+ 
+}
+.a{
+    background-color: white;
+     font-size: 20px;
+ 
+ 
+}
+.p{
+    background-color: white;
+     font-size: 20px;
+ 
+ 
+}
+
+.r{
+    background-color: white;
+     font-size: 20px;
+ }
+
+
+
+.jumbotron
+{
+ 
+background-image: url("nyccover.jpg");
+background-size: cover;
+background-position: center center;
+height:500px;
+}
+.jumbotron h2{
+    color:white;
+    text-align:center;
+    padding-top:50px;
+    margin-top:200px;
+    
+    background-color: rgba(0,0,0,0.2);
+    width:500px;
+    height: 200px;
+    
+}
+span{
+    color:red;
+}
+#pccover{
+    
+    background-image: url("pccover.jpg");
+    background-size: cover;
+      background-position: center right;
+}
+
+#alcover{
+    
+ background-image: url("alcover.jpg");
+    background-size: cover; 
+    background-position: center;
+}
+
+
+
+
+
+/*weather plug in */
+.weatherplugin {
+text-align: center;
+    
+    
+}
+
+.carousel-inner img {
+width:100%;
+
+ 
+   
+}
+.carousel{
+ 
+    
+    
+    
+    
+    
+}
+
+.list-group{
+   width:200px;
+}
+
+.pic img {
+   
+    border:5px solid white;
+    height:500px;
+
+}
+
+.par{
+    font-size:20px
+  
+}
+btn-info{
+  font-size:15px;
+}
+.footer{
+   margin-top:30px;
+   
+   background-color:rgba(0,0,0,0.3);
+}
+.row{
+   padding-top:30px;
+   padding-left:20px;
+      
+   
+}
+.buttom-footer{
+  background-color:rgba(0,0,0,0.6);
+   
+  height:40px;
+   
+}
+
+
+
+/* Font awesome CSS, Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 80px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+}
+
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+
+/* AmEx logo */
+.fa-cc-amex {
+    background: rgb(179, 198, 255);
+    font-size: auto;
+    color:blue;
+}
+
+
+.input-group{
+    
+   
+}

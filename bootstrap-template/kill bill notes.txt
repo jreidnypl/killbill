@@ -1,0 +1,7 @@
+*** July 6, 2017
+- Nassim wants carousel pics to cycle up and down.
+source: https://codepen.io/danbhala/pen/eNZrQW/
+
+
+Our URL for gh-page
+jreid187.github.io/killbill/official.html
